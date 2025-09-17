@@ -1,5 +1,5 @@
 # template
-I made shapes with different coordinates, outlines, colors and diameters.
+Due Sept 17th -- I made shapes with different coordinates, outlines, colors and diameters.
 ---
 
 This is a README file that can be used to describe and document your assignment.
