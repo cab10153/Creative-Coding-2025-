@@ -32,8 +32,9 @@ function draw() {
 
 			push(); // container start
 			translate(x, y);
-      rotation = map(y,500,height -200,150,1.678); // rotate green rectangle based on these parameters
-      rotate(rotation); //uses above parameters to rotate green rect generatively on a loop
+      rotation = map(y,0,height,0,1.678); // rotate green rectangle based on these parameters
+      let rotationAmount= map(mouseY,0,height,0,2);
+	  rotate(rotation*rotationAmount); //uses above parameters to rotate green rect generatively on a loop
 	   fill("rgba(8, 243, 51, 1)"); // fills this rectangle green 
 			 rect(0, 0, 5, 60); // Draws rect from origin
 			pop();// container end
@@ -42,7 +43,7 @@ function draw() {
 let circleM = map(mouseY,250,height,0,255); //re-map height range to set where on grid the circle cursor changes opacity
 	fill(150,circleM); // fill purple with opacity set by circleM variables
 	
-	circle(mouseX, mouseY, width*0.078); // makes circle that moves with mouse cursor 
+	//circle(mouseX, mouseY, width*0.078); // makes circle that moves with mouse cursor 
 	// however I cannot figure out how to center it 
 	// I tried several things, I think maybe it has to do with my code hierarchy?	
 
