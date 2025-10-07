@@ -3,7 +3,7 @@
 10/8/2025
 
 As we spoke about in our meeting, I would like to recreate the concept
-of mycelium spreading from a starting point and branching off in different angles. The mycelium will grow according to seconds and minutes (maybe also milliseconds?) and then reset, resulting in a rapid growing network of mycelium across the screen. I am interested in also adding color, perhaps changing color according to seconds, minutes, etc. There were a few sources of inspiration that I'm using:
+of mycelium spreading from a starting point and branching off in different angles. The mycelium will grow according to seconds and minutes (maybe also milliseconds?) and then reset, resulting in a rapid growing network of mycelium across the screen. I am interested in also adding color, perhaps changing color according to seconds, minutes, etc. There are a few sources of inspiration that I'm using:
 
 https://commons.wikimedia.org/wiki/File:Mycelium_growth_simulation.gif
 
