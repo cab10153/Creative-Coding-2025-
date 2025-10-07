@@ -9,7 +9,7 @@ https://commons.wikimedia.org/wiki/File:Mycelium_growth_simulation.gif
 
 https://commons.wikimedia.org/wiki/File:Mycelium_growth_simulation.gif
 
-Here is also a link to the code that you made as an example for me during out meeting:
+Here is also a link to the code that you made as an example for me during our meeting:
 
 https://openprocessing.org/sketch/2748199
 
