@@ -7,7 +7,7 @@ of mycelium spreading from a starting point and branching off in different angle
 
 https://commons.wikimedia.org/wiki/File:Mycelium_growth_simulation.gif
 
-https://commons.wikimedia.org/wiki/File:Mycelium_growth_simulation.gif
+https://www.youtube.com/watch?v=c6JRjVBYijs
 
 Here is also a link to the code that you made as an example for me during our meeting:
 
