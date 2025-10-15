@@ -1,5 +1,9 @@
 # template
 
+10/15/2025
+
+Made changes to what we started at our meeting. Branches grow every second, it resets every minutes, and at the hour mark it changes the color pallette of the mycelium. Also added some variables and made some aesthetic changes.
+
 10/8/2025
 
 As we spoke about in our meeting, I would like to recreate the concept
